@@ -1,0 +1,16 @@
+
+    
+    table {
+        margin: 0 auto;
+        border-collapse: collapse;
+    }
+    td {
+        text-align: center;
+        padding: 8px;
+        border: 1px solid #ddd;
+    }
+    .b-none {
+        border: none;
+    }
+
+   
